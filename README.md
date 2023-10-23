@@ -1,0 +1,1 @@
+A software engineering project from university. Monopoly style game played in the IDE console. Written in java with testing of certain components attached. The game works well and is entertaining to play with friends. 
